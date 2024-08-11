@@ -22,8 +22,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,latex,matlab,opencv,sklearn" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,anaconda,notion,illustrator" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,r" /><br>
+    <img src="https://skillicons.dev/icons?i=opencv,sklearn,mysql,latex" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda,notion,illustrator" /><br>
 </div>
 <br/>
 <!--
