@@ -9,7 +9,7 @@
 
 ⚡ Fun fact **I am a big fan of CR7**
 
-![](https://komarev.com/ghpvc/?username=oxyzgiahuy&color=green)
+<a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=oxyzgiahuy&style=for-the-badge"> </a>
 
 <h2 align="center">🌐Connect with me🌐</h2>
 <div align="center">
