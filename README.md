@@ -43,7 +43,7 @@
 <div align=center>
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=oxyzgiahuy&show_icons=true&locale=en&theme=react" alt="oxyzgiahuy" />
   <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=oxyzgiahuy&&theme=react" alt="oxyzgiahuy"alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=oxyzgiahuy&langs_count=12&layout=compact&theme=react&hide=Jupyter%20Notebook&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=oxyzgiahuy&langs_count=8&layout=compact&theme=react&hide=Jupyter%20Notebook,Ruby,Liquid,SCSS&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxyzgiahuy&column=3" alt="oxyzgiahuy" /></a> </p>
