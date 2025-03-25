@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gia+Huy+Thai!;" />
 </h1>
 
+<h2 align="center">✨ About Me ✨</h2>
+
 👩🏻‍💻 I'm a student in the Honors Program at HCMUS, with a deep passion for Mathematics and Artificial Intelligence. My research interests revolve around Computer Vision and AI in Medical Imaging, where I explore how AI can unlock new possibilities in healthcare and beyond.
 
 ⚡ I love tackling challenging problems, experimenting with models, and contributing to the AI community. Feel free to connect with me and explore my work! 🚀
